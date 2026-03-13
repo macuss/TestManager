@@ -1,8 +1,8 @@
-# 🧪 TestManager - Automation Framework
+# 🧪 TestManager
 
-Este proyecto es un framework de automatización de pruebas desarrollado con **Java**, utilizando **Selenium WebDriver** para la interacción con el navegador y **Cucumber** con **Gherkin** para la gestión de escenarios de prueba bajo la metodología BDD (Behavior-Driven Development).
+Este proyecto es un framework de gestión de pruebas desarrollado con **Java**, los features exportados usarán **Selenium WebDriver** para la interacción con el navegador y **Cucumber** con **Gherkin** para la gestión de escenarios de prueba bajo la metodología BDD (Behavior-Driven Development).
 
-## 🚀 Tecnologías Utilizadas
+## 🚀 Tecnologías Utilizadas para la gestión de Test
 
 * **Lenguaje:** Java 17+
 * **Automatización:** Selenium WebDriver
@@ -22,7 +22,7 @@ Este proyecto es un framework de automatización de pruebas desarrollado con **J
 
 ## 🛠️ Configuración Local
 
-Para ejecutar este proyecto en tu máquina, sigue estos pasos:
+Para ejecutar este proyecto en tu máquina, seguí estos pasos:
 
 ### 1. Base de Datos
 1. Importa el archivo `.sql` ubicado en la carpeta `/db` en tu **MySQL Workbench**.
